@@ -1,15 +1,21 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #c1c4af;
-    color: #060505;
+    background-color: #e9e4ce;
     margin: 0;
     padding: 20px;
 }
 
 h1 {
-    color: #3f4424;
+    color: #a85e5b;
 }
 
 p {
     font-size: 18px;
+    color: #060505;
+}
+
+div {
+    background-color: #a85e5b;
+    border-radius: 50px;
+    padding: 5px;
 }
